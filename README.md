@@ -2,9 +2,9 @@
 
 I'm `Kilian SMITI`, a french developer passionate about web technologies since his childhood. I started building websites when I was ten year old and I decided to make it my job.
 
-Currently, I'm `Full-Stack Developer` for `Free (Iliad)` 🚀, one of the main French telecommunications operators. I work on many internal applications, whether it is on invoicing tools, or civil engineering management tools, I have no trouble getting to grips with a subject.
+Currently, I'm `Back-end Developer` for `Ornikar` 🚀.
 
-You can find more information about me and my parkour on my [portfolio](https://kilian.smiti.fr).
+You can find more information about me and my parkour on my [portfolio](https://doplex.fr).
 
 <hr>
 
