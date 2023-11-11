@@ -4,7 +4,7 @@ I'm `Kilian SMITI`, a french developer passionate about web technologies since h
 
 Currently, I'm `Back-end Developer` for `Ornikar` 🚀.
 
-You can find more information about me and my parkour on my [portfolio](https://doplex.fr).
+You can find more information about me and my parkour on my [portfolio](https://kilian.smiti.fr).
 
 <hr>
 
